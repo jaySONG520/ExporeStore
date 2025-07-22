@@ -25,14 +25,14 @@
 
 ## ⚙️ 技术架构
 
-| 模块       | 技术栈                                 |
-| ---------- | -------------------------------------- |
-| 后端       | Spring Boot、MyBatis-Plus、Spring MVC  |
+| 模块       | 技术栈 |
+|------------|--------|
+| 后端       | Spring Boot、MyBatis-Plus、Spring MVC |
 | 缓存       | Redis、Caffeine、Nginx/OpenResty + Lua |
-| 中间件     | Canal、Redisson                        |
-| 数据库     | MySQL                                  |
-| 工具与框架 | Lombok、Hutool、Maven、Git             |
-| 部署环境   | Linux、Nginx                           |
+| 中间件     | Canal、Redisson |
+| 数据库     | MySQL |
+| 工具与框架 | Lombok、Hutool、Maven、Git |
+| 部署环境   | Linux、Nginx |
 
 ---
 
@@ -56,9 +56,9 @@
 ## 📊 项目效果图
 
 >（可选，添加系统截图或动图展示效果）
->
->![首页](https://your-image-link.com/index.png)
->![秒杀模块](https://your-image-link.com/seckill.png)
+> 
+> ![首页](https://your-image-link.com/index.png)
+> ![秒杀模块](https://your-image-link.com/seckill.png)
 
 ---
 
